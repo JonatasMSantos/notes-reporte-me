@@ -1,6 +1,6 @@
-# notes-reporte-me
+# Notes-reporte-me
 
-An Electron application with React and TypeScript
+An Electron application with React and TypeScript With Joi and Tailwind
 
 ## Recommended IDE Setup
 
